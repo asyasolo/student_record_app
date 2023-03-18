@@ -31,7 +31,7 @@ insert into adminUsers values('admin', 'admin', 'Admin')
 insert into adminUsers values('employee', 'employee', 'Employee')
 ```
 ## Работа с проектом
-- Открыть проект, в форме EditRecords на 18 строчке, в форме LoginForm на 17 строчке и в ViewStudentList на 16 строчке заменить YourDB на название своего сервера (Да, я так и не разобралась с .dll, but oh well ¯\_(ツ)_/¯) 
+- Открыть проект, в форме EditRecords на 18 строчке, в форме LoginForm на 17 строчке и в ViewStudentList на 16 строчке заменить **YourDB** на название своего сервера (Да, я так и не разобралась с .dll, but oh well ¯\_(ツ)_/¯) 
 ```
 string path = @"Data Source=YourDB;Initial Catalog=studentList;Integrated Security=True";
 ```
