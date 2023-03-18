@@ -14,7 +14,7 @@ namespace StudentsApp
 {
     public partial class LoginForm : Form
     {
-        SqlConnection connect = new("Data Source=DESKTOP-VN7BM1R\\SQLEXPRESS;Initial Catalog=studentList;Integrated Security=True");
+        SqlConnection connect = new("Data Source=YourDB;Initial Catalog=studentList;Integrated Security=True");
 
         public LoginForm()
         {

@@ -13,7 +13,7 @@ namespace StudentsApp
 {
     public partial class ViewStudentList : Form
     {
-        string path = @"Data Source=DESKTOP-VN7BM1R\SQLEXPRESS;Initial Catalog=studentList;Integrated Security=True";
+        string path = @"Data Source=YourDB;Initial Catalog=studentList;Integrated Security=True";
         SqlConnection connect;
         SqlCommand cmd;
         SqlDataAdapter adapter;

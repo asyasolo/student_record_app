@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7gMsNHa/0pU+JMkqeCSaZpRHdzsC+2nsxLvNZ7sNRBh7yg/MaIacmD/VGWDZjU1QcN4Wcpw7+X1kHOec39nF+w==",
+  "dgSpecHash": "Hwdvt2IVg0iN+6qn3Xh7ADA9y2R1w6ZLnIDmqdHQFqsuKq6Pzz6XZ1DtSJRoJDpHfMF/PPFoia3JMt13fcIlWg==",
   "success": true,
-  "projectFilePath": "D:\\VS_projects\\StudentsApp\\StudentsApp\\StudentsApp.csproj",
+  "projectFilePath": "D:\\GitHub\\student_record_app\\StudentsApp\\StudentsApp\\StudentsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edelw\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Edelw\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
